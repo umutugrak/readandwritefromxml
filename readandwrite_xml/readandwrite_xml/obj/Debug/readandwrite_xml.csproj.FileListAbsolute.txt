@@ -1,0 +1,9 @@
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\bin\Debug\readandwrite_xml.exe.config
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\bin\Debug\readandwrite_xml.exe
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\bin\Debug\readandwrite_xml.pdb
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\obj\Debug\readandwrite_xml.csprojResolveAssemblyReference.cache
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\obj\Debug\readandwrite_xml.Form1.resources
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\obj\Debug\readandwrite_xml.Properties.Resources.resources
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\obj\Debug\readandwrite_xml.csproj.GenerateResource.Cache
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\obj\Debug\readandwrite_xml.exe
+c:\users\ff\documents\visual studio 2012\Projects\readandwrite_xml\readandwrite_xml\obj\Debug\readandwrite_xml.pdb

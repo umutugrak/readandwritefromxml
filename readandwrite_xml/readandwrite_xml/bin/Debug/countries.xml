@@ -1,0 +1,139 @@
+<countries>
+
+	<country>
+        	<countryName>Afghanistan</countryName>
+        	<countryCapital>Kabul</countryCapital>
+			<countryCode>AF</countryCode>
+			<countryCurrency>AFG</countryCurrency>
+    </country>        
+    <country> 	
+        	<countryName>Albania</countryName>
+        	<countryCapital>Tirana</countryCapital>
+			<countryCode>AL</countryCode>
+    </country> 	
+    <country> 
+        	<countryName>Armenia</countryName>
+        	<countryCapital>Yerevan</countryCapital>
+			<countryCode>AM</countryCode>
+	</country>
+    <country> 
+        	<countryName>Denmark</countryName>
+        	<countryCapital>Copenhagen</countryCapital>
+			<countryCode>DK</countryCode>			
+	</country>
+    <country> 
+        	<countryName>France</countryName>
+        	<countryCapital>Paris</countryCapital>
+	        <countryCode>FR</countryCode>
+	</country>
+    <country> 
+        	<countryName>Italy</countryName>
+        	<countryCapital>Rome</countryCapital>
+  	        <countryCode>IT</countryCode>
+	</country>
+    <country> 
+        	<countryName>Poland</countryName>
+        	<countryCapital>Warsaw</countryCapital>
+			<countryCode>PL</countryCode>
+	</country>
+	<country> 
+        	<countryName>Tajikistan</countryName>
+        	<countryCapital>Dushanbe</countryCapital>
+			<countryCode>TJ</countryCode>
+	</country>
+	<country> 
+        	<countryName>Tanzania</countryName>
+        	<countryCapital>Dar Es Salaam</countryCapital>
+			<countryCode>TZ</countryCode>
+	</country>
+	<country> 
+        	<countryName>Thailand</countryName>
+        	<countryCapital>Bangkok</countryCapital>
+			<countryCode>TH</countryCode>
+	</country>
+	<country> 
+        	<countryName>Tunisia</countryName>
+        	<countryCapital>Tunisia</countryCapital>
+			<countryCode>TN</countryCode>
+	</country>
+	<country> 
+        	<countryName>Turkey</countryName>
+        	<countryCapital>Ankara</countryCapital>
+			<countryCode>TR</countryCode>
+	</country>
+	<country> 
+        	<countryName>Turkmenistan</countryName>
+        	<countryCapital>Ashkabat</countryCapital>
+			<countryCode>TM</countryCode>
+	</country>
+	
+	<country> 
+        	<countryName>Uganda</countryName>
+        	<countryCapital>Kampala</countryCapital>
+			<countryCode>UG</countryCode>
+	</country>
+	<country> 
+        	<countryName>Ukraine</countryName>
+        	<countryCapital>Kiev</countryCapital>
+			<countryCode>UA</countryCode>
+	</country>
+	
+	<country> 
+        	<countryName>United Arab Emirates</countryName>
+        	<countryCapital>Abu Dhabi</countryCapital>
+			<countryCode>AE</countryCode>
+	</country>
+	<country> 
+        	<countryName>United Kingdom</countryName>
+        	<countryCapital>London</countryCapital>
+			<countryCode>GB</countryCode>
+	</country>
+	<country> 
+        	<countryName>United States</countryName>
+        	<countryCapital>Washington D.C</countryCapital>
+			<countryCode>US</countryCode>
+	</country>
+	<country>
+        	<countryName>Uruguay</countryName>
+        	<countryCapital>Montevideo</countryCapital>
+			<countryCode>UY</countryCode>
+	</country>
+	<country> 
+        	<countryName>Uzbekistan</countryName>
+        	<countryCapital>Tashkent</countryCapital>
+			<countryCode>UZ</countryCode>
+	</country>
+    <country> 
+        	<countryName>Vanuatu</countryName>
+        	<countryCapital>Port Vila</countryCapital>
+			<countryCode>VU</countryCode>
+	</country>
+    <country> 
+        	<countryName>Venezuella</countryName>
+        	<countryCapital>Bogota</countryCapital>
+			<countryCode>VE</countryCode>
+	</country>
+	<country> 
+        	<countryName>Vietnam</countryName>
+        	<countryCapital>Hanoi</countryCapital>
+			<countryCode>VN</countryCode>
+	</country>     
+    <country> 
+        	<countryName>Yemen</countryName>
+        	<countryCapital>Sana</countryCapital>
+			<countryCode>YE</countryCode>
+	</country>    
+    <country> 
+        	<countryName>Zambia</countryName>
+        	<countryCapital>Lusaka</countryCapital>
+			<countryCode>ZM</countryCode>
+	</country>
+    <country> 
+        	<countryName>Zimbabwe</countryName>
+        	<countryCapital>Harare</countryCapital>
+			<countryCode>ZW</countryCode>
+	</country>
+	
+        
+        
+</countries>
